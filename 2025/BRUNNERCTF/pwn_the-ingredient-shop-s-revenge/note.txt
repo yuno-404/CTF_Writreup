@@ -1,0 +1,3 @@
+啟動環境	docker-compose up -d	在背景啟動並執行你的 CTF 環境。
+關閉並清理環境	docker-compose down	停止並移除容器，恢復到乾淨的狀態。
+檢查環境狀態	docker-compose ps	查看容器是否正在執行 (Up) 或已停止 (Exited)
