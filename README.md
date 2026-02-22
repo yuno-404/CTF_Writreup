@@ -19,9 +19,9 @@
 | 2025 | BRUNNERCTF | pwn | the-ingredient-shop | [Link](2025/BRUNNERCTF/pwn_the-ingredient-shop/README.md) | [src](2025/BRUNNERCTF/pwn_the-ingredient-shop) |
 | 2025 | BRUNNERCTF | pwn | the-ingredient-shop-s-revenge | [Link](2025/BRUNNERCTF/pwn_the-ingredient-shop-s-revenge/README.md) | [src](2025/BRUNNERCTF/pwn_the-ingredient-shop-s-revenge) |
 | 2025 | IDEKCTF | articles | idekctf2025-constructor | [Link](2025/IDEKCTF/articles/idekctf2025-constructor/README.md) | [src](2025/IDEKCTF/articles/idekctf2025-constructor) |
-| 2025 | JAILCTF | - | assem | [Link](2025/JAILCTF/assem/README.md) | [src](2025/JAILCTF/assem) |
-| 2025 | JAILCTF | - | blindness | [Link](2025/JAILCTF/blindness/README.md) | [src](2025/JAILCTF/blindness) |
-| 2025 | JAILCTF | - | calc | [Link](2025/JAILCTF/calc/README.md) | [src](2025/JAILCTF/calc) |
+| 2025 | JAILCTF | pyjail | assem | [Link](2025/JAILCTF/assem/README.md) | [src](2025/JAILCTF/assem) |
+| 2025 | JAILCTF | pyjail | blindness | [Link](2025/JAILCTF/blindness/README.md) | [src](2025/JAILCTF/blindness) |
+| 2025 | JAILCTF | pyjail | calc | [Link](2025/JAILCTF/calc/README.md) | [src](2025/JAILCTF/calc) |
 | 2025 | WHYCTF | pwn | old-memes-never-die | [Link](2025/WHYCTF/pwn/old-memes-never-die/README.md) | [src](2025/WHYCTF/pwn/old-memes-never-die/src) |
 | 2025 | WHYCTF | rev | 3-ball-mark | [Link](2025/WHYCTF/rev/3-ball-mark/README.md) | [src](2025/WHYCTF/rev/3-ball-mark/src) |
 | 2026 | AIS3EOF | articles | ais3-eof-2026-ebpf-challenge-writeup | [Link](2026/AIS3EOF/articles/ais3-eof-2026-ebpf-challenge-writeup/README.md) | [src](2026/AIS3EOF/articles/ais3-eof-2026-ebpf-challenge-writeup) |
