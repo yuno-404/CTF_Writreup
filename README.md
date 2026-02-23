@@ -2,6 +2,7 @@
 
 這個 repo 用來整理 CTF 題目附件、解題腳本與 writeup。
 筆記與HACKMD同步: https://hackmd.io/@jfMsCWB5S_WoY26uOVJM4g  
+被 binary 痛擊後，轉去 web 慢慢學習中
 
 ## 建議結構
 
